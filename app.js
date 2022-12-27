@@ -1,8 +1,4 @@
-const a = 5;
-const b = "2";
-const myName = "nico";
-
-console.log(a + b);
-console.log(a * b);
-console.log(a / b);
-console.log("hello" + myName);
+const amIFat = true;
+const amIFat2 = "true"; // 이건 문자열
+console.log(amIFat);
+const amIFat3 = null;
